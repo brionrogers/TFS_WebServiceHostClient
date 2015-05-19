@@ -1,0 +1,13 @@
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\SelfHost2.ServiceModel.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\SelfHost2.ServiceModel.pdb
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\obj\Debug\SelfHost2.ServiceModel.csprojResolveAssemblyReference.cache
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\obj\Debug\SelfHost2.ServiceModel.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\obj\Debug\SelfHost2.ServiceModel.pdb
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\Microsoft.TeamFoundation.Client.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\Microsoft.TeamFoundation.Common.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\Microsoft.TeamFoundation.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+c:\users\brion\documents\visual studio 2013\Projects\SelfHost2\SelfHost2\SelfHost2.ServiceModel\bin\Debug\Microsoft.WITDataStore.dll
